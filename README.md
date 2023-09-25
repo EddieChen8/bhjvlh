@@ -8,7 +8,10 @@ A simple calculator web application built using React.js.
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
+- [Demo](#demo)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
 - [Usage](#usage)
 
 
@@ -22,7 +25,14 @@ This calculator application is a basic web-based calculator built using React.js
 - User-friendly interface with buttons for numbers and operators.
 - Real-time display of input and results.
 
+## Demo
+You can try the live demo of this project at [https://calculator-app-b477d4f07843.herokuapp.com/].
+
 ## Installation
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) installed on your computer
+- npm (Node Package Manager) comes bundled with Node.js
 
 ### Installation
 1. Clone the repository:
